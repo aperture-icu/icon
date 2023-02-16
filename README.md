@@ -4,7 +4,11 @@ aperture.icu - icon source
 
 ## Source
 
+### PNG
 ![src](/aperture-icu.png)
+
+### WebP
+![src](/aperture-icu.webp)
 
 ## Original
 
